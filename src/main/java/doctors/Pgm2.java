@@ -6,7 +6,7 @@ public static void main(String[] args)
 	System.out.println("hello");
 	System.out.println("HIhello");
 	System.out.println("Chiken keka lead");
-	System.out.println("hi suprita");
+	
 }
 }
 
