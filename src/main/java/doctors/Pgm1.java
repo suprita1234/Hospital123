@@ -8,6 +8,7 @@ public class Pgm1 {
 		System.out.println("hi lead");
 		System.out.println("manja lover boy");
 		System.out.println("manja koli manja");
+		System.out.println("manja koli manja");
 
 	}
 
